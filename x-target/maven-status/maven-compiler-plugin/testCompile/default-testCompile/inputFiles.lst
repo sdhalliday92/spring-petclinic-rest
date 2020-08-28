@@ -1,0 +1,17 @@
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/rest/PetRestControllerTests.java
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/rest/VetRestControllerTests.java
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/rest/PetTypeRestControllerTests.java
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/rest/SpecialtyRestControllerTests.java
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/rest/UserRestControllerTests.java
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/service/clinicService/ClinicServiceSpringDataJpaTests.java
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/service/clinicService/ClinicServiceJdbcTests.java
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/service/clinicService/ClinicServiceJpaTests.java
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/rest/OwnerRestControllerTests.java
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/service/userService/UserServiceJpaTests.java
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/service/clinicService/AbstractClinicServiceTests.java
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/service/userService/UserServiceJdbcTests.java
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/service/userService/AbstractUserServiceTests.java
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/service/clinicService/ApplicationTestConfig.java
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/rest/VisitRestControllerTests.java
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/service/userService/UserServiceSpringDataJpaTests.java
+/home/ec2-user/spring-petclinic-rest/src/test/java/org/springframework/samples/petclinic/model/ValidatorTests.java

@@ -1,6 +1,6 @@
 FROM frolvlad/alpine-oraclejdk8:slim
 VOLUME /tmp
-ADD spring-petclinic-rest-XXX.jar app.jar
+ADD spring-petclinic-rest-2.2.5.jar app.jar
 RUN sh -c 'touch /app.jar'
 ENV JAVA_OPTS=""
 ENV MYSQL_USER=$(MYSQL_USER)
